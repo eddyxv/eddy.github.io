@@ -1,0 +1,137 @@
+/* Element Selector */
+
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+body {
+    background-color: white;
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 10px;
+    color: #EAF6F6;
+    width: 5%;
+    margin-bottom: 100px;
+}
+
+p {
+    font-weight: 600;
+    line-height: 2;
+    margin-bottom: 100px;
+}
+
+/* Class Selector */
+
+.bottom-cloud {
+    position: absolute;
+    left: 25%;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 30px 0;
+}
+
+.btn {
+    background-color: #66BFBF;
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+.computer-img {
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.contact-me {
+    margin: 90px 0;
+    height: 300px;
+}
+
+.copyright {
+    color: #EAF6F6;
+    margin: 16px 0;
+    font-size: 0.75rem;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    margin: 0;
+    position: relative;
+    padding-top: 100px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 26%;
+    top: 60px;
+}
+
+.skill-row {
+    width: 40%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.chill-img {
+    border-radius: 100%;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.profile-photo {
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+.profile {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.footer-link {
+    margin: 0 10px;
+    text-decoration: none;
+}
